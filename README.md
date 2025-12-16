@@ -193,7 +193,7 @@
 ## 声明
 
 - 本仓库整理来自公开网络的资料，本人非原创作者，不承担因使用这些资源产生的任何责任，侵权必删。
-- 详细声明请参考 [LEGAL.md]()
+- 详细声明请参考 [LEGAL.md](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/LEGAL.md)
 
 ***
 
