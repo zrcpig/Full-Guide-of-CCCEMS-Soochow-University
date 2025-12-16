@@ -111,6 +111,20 @@
 
 	- [高数专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E9%AB%98%E6%95%B0%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
 	- [化学专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E5%8C%96%E5%AD%A6%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
+
+		<details>
+		<summary>一个简略的材化本科专业书籍推荐表</summary>
+
+		| 书籍分类 | 中文书籍推荐 | 英文书籍推荐 |
+		| :-------: | :-------: | :-------: |
+		| 无机化学 | 宋天佑蓝皮无机（吉林大学） | Inorganic Chemistry (Shriver) |
+		| 有机化学 | 邢其毅基础有机（北京大学） | Organic Chemistry (McMurry) |
+		| 分析化学 | --- | Quantitative Chemical Analysis (Daniel C. Harris) |
+		| 量子化学 | 黄明宝量子化学（中国科学院大学） | --- |
+		| 物理化学 | 傅献彩物理化学（南京大学） | Atkins’ Physical Chemistry (Peter Atkins) |
+
+		</details>
+
 	- [物理专业相关](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3)
 
 - 考级考证考研
@@ -174,6 +188,12 @@
 - 感谢 [@Michael Qian (Qi Qian, 钱奇)](https://github.com/MichaelQian0517) 的项目 [SUDA_WiFi Linux 登陆组件](https://github.com/MichaelQian0517/SUDA_WiFi) 帮助我在Linux下登录SUDA_WiFi
 
 - 感谢 [ZXJ-learner](https://github.com/ZXJ-learner) 提供英语强化班的课程资料
+
+***
+## 声明
+
+- 本仓库整理来自公开网络的资料，本人非原创作者，不承担因使用这些资源产生的任何责任，侵权必删。
+- 详细声明请参考 [LEGAL.md]()
 
 ***
 
