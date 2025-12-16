@@ -1,5 +1,2 @@
 “*.pdf” filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
 高分子化学第5版[[:space:]]导读与题解[[:space:]]潘祖仁[[:space:]]课后习题思考题计算题答案.pdf filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 4c0fd5ba9bd83a1fbf70e2feb30870092b4ae1b0
