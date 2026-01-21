@@ -8,7 +8,7 @@
 
 本指南目前包括以下部分（如有补充与建议欢迎评论或邮件*heyurui@alu.suda.edu.cn*）：
 
-- 苏大材化课程：本节含苏州大学材料与化学化工学部从大一到大四各类课程的学习资料，包括我自己的试卷及复习笔记，以及材化部历代学长学姐流传下来的课程资料，**课程建议写在每个文件夹下的markdown(.md)文件里**，学位论文模板见[毕业设计]()。
+- 苏大材化课程：本节含苏州大学材料与化学化工学部从大一到大四各类课程的学习资料，包括我自己的试卷及复习笔记，以及材化部历代学长学姐流传下来的课程资料，**课程建议写在每个文件夹下的markdown(.md)文件里**，学位论文模板见[毕业设计](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1)。
 
 - 苏大材化资料：本节以活动的形式，涵盖了在苏大材化求学可能遇到的各种事情的指南，并附有相关的建议。
 
@@ -26,7 +26,7 @@
 	- [结构化学（一）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BB%93%E6%9E%84%E5%8C%96%E5%AD%A6%EF%BC%88%E4%B8%80%EF%BC%89)
 	- [化工基础](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%B7%A5%E5%9F%BA%E7%A1%80)
 	- 综合实验
-	- 毕业设计
+	- [毕业设计](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1)
 
 - 专业选修课程
 
