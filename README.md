@@ -199,6 +199,11 @@
 - 详细声明请参考 [LEGAL.md](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/blob/main/LEGAL.md)
 
 ***
+## 广告
+
+- **目前沙学长（20级化师） [@SimonDiana](https://github.com/SimonDiana) 在西湖大学理论化学课题组（不同于计算化学，主要是方法开发）学习，有意向了解可私聊**
+
+***
 
 [***养天地正气 法古今完人***][Website_cccems]
 
