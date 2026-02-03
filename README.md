@@ -27,6 +27,10 @@
 	- [化工基础](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%8C%96%E5%B7%A5%E5%9F%BA%E7%A1%80)
 	- 综合实验
 	- [毕业设计](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1)
+	- [习近平总书记关于教育的重要论述研究（化学师范）](材化部课程\习近平总书记关于教育的重要论述研究)
+	- [教育学基础教程（化学师范）](材化部课程\教育学基础教程)
+	- [教育技术与教育科研方法（化学师范）](材化部课程\教育技术与教育科研方法)
+	- [学与教的心理学（化学师范）](材化部课程\学与教的心理学)
 
 - 专业选修课程
 
@@ -57,6 +61,7 @@
 - 公共基础课程
 
 	- [改革开放史](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E6%94%B9%E9%9D%A9%E5%BC%80%E6%94%BE%E5%8F%B2)
+	- [大学英语](材化部课程\大学英语)
 	- [英语高级视听](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E8%8B%B1%E8%AF%AD%E9%AB%98%E7%BA%A7%E8%A7%86%E5%90%AC)
 	- [翻译与英语写作](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%8B%B1%E8%AF%AD%E5%86%99%E4%BD%9C)
 	- [军事技能](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E8%AF%BE%E7%A8%8B/%E5%86%9B%E4%BA%8B%E6%8A%80%E8%83%BD)
