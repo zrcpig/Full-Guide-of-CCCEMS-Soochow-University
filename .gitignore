@@ -3,6 +3,12 @@
 CLAUDE.md
 .claudeignore
 
+# ── MkDocs 构建产物（由 GitHub Actions 在 CI 中生成，不入库） ──
+site/
+# 子目录首页由 CI 从 README.md 复制生成，根 index.md 同理
+index.md
+**/index.md
+
 # ── 操作系统生成的杂项文件 ──
 .DS_Store
 Thumbs.db

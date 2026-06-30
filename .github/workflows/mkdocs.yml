@@ -1,0 +1,67 @@
+name: Build & Deploy MkDocs Site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只跑一个部署，避免并发覆盖
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout（含 Git LFS）
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 准备站点首页 index.md
+        run: cp README.md index.md
+
+      - name: 为含 README.md 的子目录生成 index.md（使目录节点可点）
+        run: |
+          find . -path ./.git -prune -o -path ./.github -prune -o -name "README.md" -print | while read -r f; do
+            dir=$(dirname "$f")
+            # 根目录的 README.md 已在上面处理为 index.md，跳过
+            if [ "$dir" = "." ]; then continue; fi
+            cp "$f" "$dir/index.md"
+          done
+
+      - name: Build site
+        run: mkdocs build --strict
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
