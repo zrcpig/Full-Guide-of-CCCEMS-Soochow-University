@@ -1,0 +1,80 @@
+site_name: 苏州大学材料与化学化工学部完全指南
+site_description: 苏州大学材化部本科学习指南 —— 课程资料、学习时间线、书籍推荐与事务指南
+site_url: https://wechsels.github.io/Full-Guide-of-CCCEMS-Soochow-University/
+repo_url: https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University
+repo_name: GitHub
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换浅色模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+  logo: .lib/Picture/README/苏大材化官网logo.png
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+  - literate-nav:
+      nav_file: nav.md
+  - section-index
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+exclude_docs: |
+  nav.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University
