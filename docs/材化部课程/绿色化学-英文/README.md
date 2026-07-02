@@ -25,5 +25,5 @@
 
 ## 相关链接
 
-- 返回[苏大材化课程总览](../../README.md#苏大材化课程)
+- 返回[苏大材化课程总览](../../index.md#苏大材化课程)
 - 课程学习建议：[Green_Chemistry.md](Green_Chemistry.md)
