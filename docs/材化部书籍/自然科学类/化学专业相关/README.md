@@ -31,6 +31,12 @@
 | `计算化学/` | 计算化学入门与 Gaussian 使用说明 |
 | `量子化学/` | 量子力学与量子化学教材，配套量子化学基础、结构化学课程 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部书籍/自然科学类/化学专业相关)
+
 ## 相关链接
 
 - 返回[苏大材化书籍推荐](../../../index.md#苏大材化书籍推荐)

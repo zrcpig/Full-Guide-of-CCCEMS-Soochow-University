@@ -27,6 +27,12 @@
 | `2022级推荐课表-*.pdf` | 各学期推荐选课表，按学期给出建议课程组合 |
 | `2022年修订-创新创业学分认定管理条例.pdf` | 创新创业学分认定标准与流程 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部资料/材化部选课)
+
 ## 相关链接
 
 - 返回[苏大材化资料总览](../../index.md#苏大材化资料)

@@ -36,6 +36,12 @@
 | `*.六级真题第N套详解.pdf` | 第 N 套真题答案与详解 |
 | `*.六级真题第N套听力音频.mp3` | 第 N 套听力音频 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部书籍/考级考证考研/英语六级（CET-6）)
+
 ## 相关链接
 
 - 返回[苏大材化书籍推荐](../../../index.md#苏大材化书籍推荐)

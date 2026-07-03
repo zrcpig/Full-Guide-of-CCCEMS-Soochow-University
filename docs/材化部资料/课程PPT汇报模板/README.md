@@ -28,6 +28,12 @@
 | `苏州大学PPT模板/原始logo/` | 苏大 logo 素材 |
 | `苏州大学PPT模板/校园美景图片素材/` | 校园美景图片素材 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部资料/课程PPT汇报模板)
+
 ## 相关链接
 
 - 返回[苏大材化资料总览](../../index.md#苏大材化资料)

@@ -19,6 +19,12 @@
 | :--- | :--- |
 | `《计算机辅助普通话水平测试教程》.pdf` | 普通话水平测试备考教程，含朗读篇目与说话话题 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部书籍/考级考证考研/普通话考试)
+
 ## 相关链接
 
 - 返回[苏大材化书籍推荐](../../../index.md#苏大材化书籍推荐)

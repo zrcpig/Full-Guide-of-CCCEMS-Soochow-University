@@ -30,6 +30,12 @@
 | `数学分析讲义第一/二/三册-程艺.pdf` | 数学分析讲义三册，偏理论 |
 | `同步练习一(下册)*.pdf` | 下册多元函数、二重积分同步练习 |
 
+## 资料下载
+
+> 以下链接跳转至 GitHub 仓库对应目录，便于直接下载。
+
+- [下载本目录全部资料（GitHub 文件夹）](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/docs/材化部书籍/自然科学类/高数专业相关)
+
 ## 相关链接
 
 - 返回[苏大材化书籍推荐](../../../index.md#苏大材化书籍推荐)

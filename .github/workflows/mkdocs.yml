@@ -34,6 +34,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: 修正站内相对链接（裸目录链接补 /index.md）
+        run: python fix_links.py
+
       - name: 准备站点首页 index.md
         run: cp docs/README.md docs/index.md
 
