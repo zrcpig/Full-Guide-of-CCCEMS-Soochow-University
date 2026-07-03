@@ -51,11 +51,11 @@ def fix_href(href: str, md_file_path: str) -> str:
     base_dir = os.path.dirname(md_file_path)
     abs_target = os.path.normpath(os.path.join(base_dir, path_part))
 
-    # 仅处理指向 docs 内目录的链接
+    # 裸目录链接已经是正确的 MkDocs 格式（MkDocs 会自动将裸目录解析为该目录下的 README/index）
+    # 不再需要补全后缀，保持原样即可
     if abs_target.startswith(DOCS_DIR) and os.path.isdir(abs_target):
-        # 计算相对当前 md 文件的目录路径，再补 /README.md
-        rel_dir = os.path.relpath(abs_target, base_dir).replace(os.sep, "/")
-        return f"{rel_dir}/README.md{anchor}"
+        # 已经是正确的裸目录链接，返回原始路径（含锚点）
+        return href
 
     return href
 
