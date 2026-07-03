@@ -193,7 +193,7 @@
     | 有机化学 | 邢其毅基础有机（北京大学） | Organic Chemistry (McMurry) |
     | 分析化学 | --- | Quantitative Chemical Analysis (Daniel C. Harris) |
     | 量子化学 | 黄明宝量子化学（中国科学院大学） | --- |
-    | 物理化学 | 傅献彩物理化学（南京大学） | [Atkins' Physical Chemistry (Peter Atkins)](https://github.com/Wechsels/Full-Guide-of-CCCEMS-Soochow-University/tree/main/%E6%9D%90%E5%8C%96%E9%83%A8%E4%B9%A6%E7%B1%8D/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E7%B1%BB/%E5%8C%96%E5%AD%A6%E4%B8%93%E4%B8%9A%E7%9B%B8%E5%85%B3/%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6/Atkins_%20Physical%20_Chemistry_11th_%E4%B8%AD%E6%96%87%E7%89%88_%E5%88%86%E5%8D%B7%E5%8E%8B%E7%BC%A9%E8%AF%B7%E5%85%A8%E9%83%A8%E4%B8%8B%E8%BD%BD%E5%90%8E%E7%BB%9F%E4%B8%80%E8%A7%A3%E5%8E%8B) |
+    | 物理化学 | 傅献彩物理化学（南京大学） | Atkins' Physical Chemistry (Peter Atkins)|
 
   </details>
 
