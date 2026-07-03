@@ -51,6 +51,28 @@ plugins:
   - literate-nav:
       nav_file: nav.md
   - section-index
+  - exclude:
+      glob:
+        - "*.pdf"
+        - "*.mp3"
+        - "*.doc"
+        - "*.docx"
+        - "*.ppt"
+        - "*.pptx"
+        - "*.mp4"
+        - "*.wmv"
+        - "*.rar"
+        - "*.zip"
+        - "*.z01"
+        - "*.z02"
+        - "*.z03"
+        - "*.xlsx"
+        - "*.exe"
+        - "*.rtf"
+        - "*.psd"
+        - "*.m4a"
+        - "*.dotx"
+        - "*.tif"
 
 markdown_extensions:
   - admonition

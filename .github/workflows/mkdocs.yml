@@ -22,7 +22,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           lfs: true
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -34,13 +33,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: 修正站内相对链接（裸目录链接补 /index.md）
+      - name: 修正站内相对链接
         run: python fix_links.py
 
       - name: 准备站点首页 index.md
         run: cp docs/README.md docs/index.md
 
-      - name: 为含 README.md 的子目录生成 index.md（目录节点可点）
+      - name: 为含 README.md 的子目录生成 index.md（ section-index 插件需要）
         run: |
           find docs -name "README.md" | while read -r f; do
             dir=$(dirname "$f")

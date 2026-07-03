@@ -5,10 +5,10 @@
 
 规则（幂等，可重复运行）：
   - 指向 docs 内「目录」的相对链接（如 [无机化学](材化部课程/无机化学)）
-    统一补上 /index.md，使 MkDocs 能正确解析为该目录的首页。
+    统一补上 /README.md，使 MkDocs 能正确解析为该目录的首页。
   - 已经以 .md 结尾的链接保持不变（指向具体文件，本来就合法）。
   - 锚点链接（#xxx）、外链（http(s)://、mailto:）、邮件、代码块/行内代码中的内容不动。
-  - 保留链接原有的锚点片段（如 dir#标题 -> dir/index.md#标题）。
+  - 保留链接原有的锚点片段（如 dir#标题 -> dir/README.md#标题）。
 
 用法： python fix_links.py
 """
@@ -53,9 +53,9 @@ def fix_href(href: str, md_file_path: str) -> str:
 
     # 仅处理指向 docs 内目录的链接
     if abs_target.startswith(DOCS_DIR) and os.path.isdir(abs_target):
-        # 计算相对当前 md 文件的目录路径，再补 /index.md
+        # 计算相对当前 md 文件的目录路径，再补 /README.md
         rel_dir = os.path.relpath(abs_target, base_dir).replace(os.sep, "/")
-        return f"{rel_dir}/index.md{anchor}"
+        return f"{rel_dir}/README.md{anchor}"
 
     return href
 
